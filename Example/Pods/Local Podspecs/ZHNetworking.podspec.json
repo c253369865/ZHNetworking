@@ -1,0 +1,22 @@
+{
+  "name": "ZHNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of ZHNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/巢志华/ZHNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "巢志华": "chaozh@flatincbr.com"
+  },
+  "source": {
+    "git": "https://github.com/巢志华/ZHNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZHNetworking/Classes/**/*"
+}
